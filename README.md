@@ -14,6 +14,6 @@ Criar um simulador de logística de transporte rural que permita ao agricultor o
 
 O arquivo .Json anexo é referente ao modelo exemplar criado pelo próprio programa, para checagem de quem o faça necessário.
 
-Foi feito a escrita do código anteriormente para que armazenasse os dados no arquivo .Json criado por mim no meu repositório do Oracle SQL Developer, porém encarei o erro (Erro ao conectar no Oracle: DPI-1047: Cannot locate a 64-bit Oracle Client library: "The specified module could not be found". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help) por horas, e não achei a solução que funcionasse para minha máquina em lugar algum.
+Foi feito a escrita do código anteriormente para que armazenasse os dados no arquivo .Json criado por mim no meu repositório do Oracle SQL Developer, porém encarei o erro (Erro ao conectar no Oracle: DPI-1047: Cannot locate a 64-bit Oracle Client library: "The specified module could not be found". See https://cx-oracle.readthedocs.io/en/latest/user_guide/installation.html for help) por horas, e não achei a solução que funcionasse para minha máquina em lugar algum, fazendo com que fosse estritamente necessária a criação do arquivo Json na máquina do usuário, como solução temporária.
 
 Ate.
