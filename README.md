@@ -8,4 +8,4 @@ Criar um simulador de logística de transporte rural que permita ao agricultor o
 - Cadastrar e consultar veículos com capacidade de carga e custo por quilômetro.
 - Cadastrar e consultar produtos agrícolas com peso por cesto.
 - Calcular automaticamente o custo de transporte com base na distância da propriedade até o centro de distribuição, capacidade do veículo e carga transportada.
-- Checar cada cadastro e cálculo realiza anteriormente.
+- Identificar com ID global, e checar cada cadastro e cálculo realizado anteriormente.
