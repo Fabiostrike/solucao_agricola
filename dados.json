@@ -1,0 +1,59 @@
+{
+  "propriedades": [
+    {
+      "id": 1,
+      "nome": "Casa do Fazendeiro",
+      "localizacao": "Rua Travessa 23",
+      "area_producao": 1.0,
+      "distancia": 150.0,
+      "data_cadastro": "25/04/2025 18:46"
+    },
+    {
+      "id": 2,
+      "nome": "Terra do plantio",
+      "localizacao": "Rua 25",
+      "area_producao": 2.0,
+      "distancia": 180.0,
+      "data_cadastro": "25/04/2025 18:47"
+    },
+    {
+      "id": 3,
+      "nome": "Casa 1",
+      "localizacao": "Rua 24",
+      "area_producao": 1.0,
+      "distancia": 500.0,
+      "data_cadastro": "25/04/2025 19:27"
+    }
+  ],
+  "veiculos": [
+    {
+      "id": 1,
+      "tipo": "Caminhão",
+      "capacidade": 800.0,
+      "custo_km": 1.0,
+      "data_cadastro": "25/04/2025 18:47"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Maçã verde",
+      "peso_cesto": 25.0,
+      "data_cadastro": "25/04/2025 18:48"
+    }
+  ],
+  "calculos_realizados": [
+    {
+      "id": 1,
+      "propriedade_id": 2,
+      "veiculo_id": 1,
+      "produto_id": 1,
+      "peso_total": 800.0,
+      "viagens": 1,
+      "distancia_total": 360.0,
+      "custo_total": 1129.090909090909,
+      "tempo_total": 9.0,
+      "data_calculo": "25/04/2025 18:48"
+    }
+  ]
+}
